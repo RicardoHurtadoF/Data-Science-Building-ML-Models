@@ -1,11 +1,13 @@
 # Data Science: Building Machine Learning Models
 
-Este repositorio contiene proyectos y ejercicios realizados durante el curso "Data Science: Building Machine Learning Models".
+This repository contains projects and exercises completed during the course **"Data Science: Building Machine Learning Models"**.
 
-## Contenido
+## Contents
 - 
-## Aprendizajes
-- Preparación de datos
-- Selección de características
-- Evaluación y validación de modelos
-- Interpretación de resultados
+
+## Learnings
+- Data preparation and cleaning
+- Feature selection and engineering
+- Model evaluation and validation
+- Interpretation of results
+
