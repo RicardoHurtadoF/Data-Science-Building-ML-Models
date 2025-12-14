@@ -1,9 +1,12 @@
 # Data Science: Building Machine Learning Models
 
-This repository contains projects and exercises completed during the course **"Data Science: Building Machine Learning Models"**.
-## Content
--
+This repository contains practice code for building Machine Learning Models
 
+## Content
+-Smoothing and Linear Regression for Prediction
+-Cross-validation and k-Nearest Neighbors
+-The Caret Package
+-Model Fitting and Recommendation Systems
 
 ## Skills
 - R programming
